@@ -108,6 +108,6 @@ Analysis was streamlined using:
 
 ## **📜 License**
 
-**MIT License** — simple, flexible, and ideal for open use.
+**MIT License** 
 
 ---
