@@ -12,23 +12,14 @@ This project delivers a full Excel-based analytical dashboard built using a Web 
 
 ![Main Dashboard](https://github.com/kedarprathamesh/Digital-Insights-Revenue-Dashboard/blob/main/Data%20Insights%20Snapshot.png)
 
-### **2. Traffic & User Metrics Section**
+### **2. 2029 Metrics**
 
 ![2019 Metrics](https://github.com/kedarprathamesh/Digital-Insights-Revenue-Dashboard/blob/main/Data%20Insights%202019%20Snapshot.png)
 
 
-### **3. Revenue Performance Charts**
+### **3. 2020 Performance Charts**
 
 ![2020 Metrics](https://github.com/kedarprathamesh/Digital-Insights-Revenue-Dashboard/blob/main/Digital%20Insight%202020%20Snapshot.png)
-
-### **4. Conversion & Transactions Insights**
-
-![Conversion Metrics](screenshots/conversion-insights.png)
-
-
-### **5. Year-over-Year Trend Comparison**
-
-![YOY Trends](screenshots/yoy-trends.png)
 
 ---
 
