@@ -19,7 +19,7 @@ This project delivers a full Excel-based analytical dashboard built using a Web 
 
 ### **3. Revenue Performance Charts**
 
-![2020 Metrics](ghttps://github.com/kedarprathamesh/Digital-Insights-Revenue-Dashboard/blob/main/Digital%20Insight%202020%20Snapshot.png)
+![2020 Metrics](https://github.com/kedarprathamesh/Digital-Insights-Revenue-Dashboard/blob/main/Digital%20Insight%202020%20Snapshot.png)
 
 ### **4. Conversion & Transactions Insights**
 
