@@ -6,8 +6,6 @@ This project delivers a full Excel-based analytical dashboard built using a Web 
 
 ## **📸 Dashboard Screenshots**
 
-> Replace each image path with your actual images inside a `/screenshots` folder.
-
 ### **1. Main Dashboard Overview**
 
 ![Main Dashboard](https://github.com/kedarprathamesh/Digital-Insights-Revenue-Dashboard/blob/main/Data%20Insights%20Snapshot.png)
